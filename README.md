@@ -12,3 +12,4 @@
 ## Problem Statement: 
    To identify the restaurant in Mexico, which is highly rated and also to identify the restaurant for the future investments.
    Also, analyze the consumer preferences and demographics effect.
+[output.csv](https://github.com/mausumi45/Resturant-Rating-Analysis/files/10372960/output.csv)

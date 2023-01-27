@@ -63,7 +63,7 @@ In this project, we used various SQL commands & functions like:
 
 
 
-𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙙𝙚𝙢𝙤𝙜𝙧𝙖𝙥𝙝𝙞𝙘𝙨:
+𝘾𝙪𝙨𝙩𝙤𝙢𝙚𝙧 𝙙𝙚𝙢𝙤𝙜𝙧𝙖𝙥𝙝𝙞𝙘𝙨: https://github.com/mausumi45/Resturant-Rating-Analysis/blob/main/customer_demographics.sql
 
 🍟 62% customers are from "San Luis Potosi". 
 
